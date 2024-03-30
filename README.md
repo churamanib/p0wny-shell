@@ -25,12 +25,14 @@ Tested on kernels 5.19.0 and 6.2.0.
 
 1. Just run the script in the low-priv shell.
 ```
-   ./exploit.sh
+https://github.com/churamanib/p0wny-shell.git
+cd p0wny-shell
+./exploit.sh
 ```
 2. Remember to type "exit" to finish the root shell and leave the house cleaned.
 
 ### Example
-![Untitled](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629/assets/120142960/13f8463c-6c5f-400c-a4d9-ab19cb0e5738)
+![Untitled](https://github.com/churamanib/CVE-2023-2640-CVE-2023-32629/assets/120142960/13f8463c-6c5f-400c-a4d9-ab19cb0e5738)
 
 ### License
 Feel free to use or modify whenever and wherever you like.
