@@ -25,7 +25,7 @@ Tested on kernels 5.19.0 and 6.2.0.
 
 1. Just run the script in the low-priv shell.
 ```
-https://github.com/churamanib/p0wny-shell.git
+git clone https://github.com/churamanib/p0wny-shell.git
 cd p0wny-shell
 ./exploit.sh
 ```
